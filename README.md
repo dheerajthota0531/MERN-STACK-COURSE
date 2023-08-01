@@ -5,6 +5,10 @@ today(01-08-20223) i started doing it.
 today i have learned about the basics of html(heading tag,paragarph tag,void tags[horizontal rule tag, break tag])
 i have also written the code on vs code studio accroding to the task that was given to me in the course.
 todays project is to build a static html page for movie recommendtions
+
+
+
+
 2.1 HEADING+ELEMENT
 ----------------------------------------------------------------------------------------------------------------------
 <h1>Book</h1>
